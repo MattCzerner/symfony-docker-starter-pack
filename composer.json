@@ -1,4 +1,6 @@
 {
+
+    "name": "MattCzerner/symfony-docker-starter-pack",
     "type": "project",
     "license": "proprietary",
     "require": {
